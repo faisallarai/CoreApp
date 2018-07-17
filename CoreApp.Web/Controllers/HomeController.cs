@@ -17,7 +17,7 @@ namespace CoreApp.Web.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page hello.";
+            ViewData["Message"] = "Your application description page hell.";
 
             return View();
         }
